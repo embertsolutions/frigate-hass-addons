@@ -1,11 +1,11 @@
 name: Frigate
-version: 0.12.1
+version: vim4_armnn
 panel_icon: "mdi:cctv"
 panel_title: Frigate
 slug: frigate
-description: NVR with realtime local object detection for IP cameras
-url: "https://github.com/blakeblackshear/frigate"
-image: ghcr.io/blakeblackshear/frigate
+description: VIM4 ARM AI NVR with realtime local object detection for IP cameras
+url: "https://github.com/embertsolutions/frigate"
+image: embertsolutions/frigate
 startup: application
 boot: auto
 init: false
@@ -45,7 +45,7 @@ devices:
 usb: true
 video: true
 tmpfs: true
-full_access: false
+full_access: true
 privileged:
   - SYS_ADMIN
 environment:

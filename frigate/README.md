@@ -1,6 +1,6 @@
 # Home Assistant Add-on: Frigate
 
-Please reference the [release notes](https://github.com/blakeblackshear/frigate/releases) for breaking changes.
+Please reference the [release notes](https://github.com/embertsolutions/frigate/releases) for breaking changes.
 
 ![Supports aarch64 Architecture][aarch64-shield] ![Supports amd64 Architecture][amd64-shield] ![Supports armv7 Architecture][armv7-shield]
 

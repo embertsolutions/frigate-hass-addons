@@ -8,4 +8,4 @@ Frigate brings realtime object detection to any camera video feed supported by f
 
 ## Support
 
-Please [open an issue](https://github.com/blakeblackshear/frigate/issues/new/choose) if you need support.
+Please [open an issue](https://github.com/embertsolutions/frigate/issues/new/choose) if you need support.
